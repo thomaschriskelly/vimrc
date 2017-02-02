@@ -40,6 +40,7 @@ filetype plugin indent on    " required
 :set expandtab
 :set tabstop=4
 :set shiftwidth=4
+:set noswapfile " don't use swapfiles, use git
 
 :syntax on
 syn sync fromstart
